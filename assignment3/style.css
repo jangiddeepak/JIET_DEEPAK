@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    font-size: 160%; 
+    background-color: darkgray;
+
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    
+
+}
+
+a:hover{
+    background-color: black;
+    color: aquamarine;
+    border-radius: 10px;
+    border: 5px groove aquamarine;
+    text-decoration: underline;
+    
+}
+
+button{
+    width: 05%;
+    text-align: center;
+    background-color:blue;
+    margin-top: 20px;
+    color: white;
+   
+}
+button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+}
