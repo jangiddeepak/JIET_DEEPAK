@@ -1,0 +1,61 @@
+.navbar{
+    display: flex;
+    font-size: 200%;
+    background-color: black;
+    margin-bottom: 20px;
+    }
+.navbar>a{
+    margin-left: 10px;
+    color: white;
+    text-decoration:none;
+    padding: 1px 1px;
+    }
+.navbar>a:hover{
+    background-color: white;
+    color: black;
+    text-decoration: underline;
+}
+img{
+    width: 250px;
+    border-bottom: 3px solid black;
+    margin-bottom: 10px;
+
+}
+.block{
+    border: 5px double black;
+    width: 20%;
+    padding: 20px 40px;
+    margin-left: 20px;
+    background-color:orange;
+    
+}
+button{
+    background-color: black;
+    color:white;
+    margin-top: 30px;
+
+}
+button:hover{
+    background-color: green;
+    cursor: pointer;
+    font-weight: 600;
+
+
+}
+.divsize{
+    margin-left: 50px;
+    display: flex;
+    margin-bottom: 15px;
+    
+
+}
+body{
+    background-color: greenyellow;
+}
+section{
+    background-color: blueviolet;
+    color: white;
+    border: 5px solid green;
+    padding: 0px 3px;
+    border-radius: 5px;
+}
